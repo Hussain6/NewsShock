@@ -1,0 +1,9 @@
+
+
+<Route exactpath='/business' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>}      
+<Route exactpath='/entertainment' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>}
+<Route exactpath='/general' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>} 
+<Route exactpath='/health' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>}
+<Route exactpath='/science' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>} 
+<Route exactpath='/sports' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>} 
+<Route exactpath='/technology' element={<div><News pageSize={5} country={'us'} category={'general'} /></div>}
